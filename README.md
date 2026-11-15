@@ -13,7 +13,8 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
 
   **These are Crushing Wheel exclusive - they don't add Milling recipes**
 
-   * Dripstone Block => Copper Nuggets (12% chance, 2 Nuggets) (Adds a Crushing recipe, leaving the default Clay Ball milling recipe)
+   * Dripstone Block => Copper Nuggets (12% chance, 2 Nuggets)
+     * Adds only a Crushing recipe, leaving the default Clay Ball milling recipe
    * Scorchia => Zinc Nuggets (12% chance, 3 Nuggets)
 
 ### Filling (Spout)
