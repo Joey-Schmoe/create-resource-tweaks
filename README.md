@@ -16,17 +16,17 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
 
 ### Compacting
 
-  * Cobbled Deepslate: Cobblestone (x4)
-  * Calcite: Cobblestone + Quartz + Lava (100mb)
+  * Cobblestone (x4) = Cobbled Deepslate
+  * Cobblestone + Quartz + Lava (100mb) = Calcite
 
 ### Crushing
 
   **These are Crushing Wheel exclusive - they don't add Milling recipes**
 
-   * Copper Nuggets: Crushing Dripstone Block  (Adds a Crushing recipe, leaving the default Clay Ball milling recipe)
-   * Zinc Nuggets: Crushing Scorchia
+   * Dripstone Block => Copper Nuggets (12% chance, 2 Nuggets) (Adds a Crushing recipe, leaving the default Clay Ball milling recipe)
+   * Scorchia => Zinc Nuggets (12% chance, 3 Nuggets)
 
 ### Spouting
 
-  * Scorchia: Scoria + Lava (100mb)
-  * Dripstone Block: Limestone + Water (250mb)
+  * Scoria + Lava (100mb) = Scorchia
+  * Limestone + Water (250mb) = Dripstone Block
