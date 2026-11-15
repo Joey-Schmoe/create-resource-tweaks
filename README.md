@@ -7,13 +7,17 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
   * Dripstone
   * Copper
   * Scorchia
+    * *Note: Scorchia is already renewable, but requires dyeing Scoria manually or with Create: Dragons Plus. This mod adds a seperate process recipe, and leaves the original in place*
   * Zinc
 
 
 ## Recipes
 
-### Blasting
-  * Scoria > Blasting > Scorchia
+### Compacting
+  * Cobblestone (x4) > Cobbled Deepslate
+
+### Spouting (Lava)
+  * Scoria > Scorchia
 
 ### Spouting (Water)
   * Limestone > Dripstone
