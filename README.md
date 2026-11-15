@@ -2,22 +2,12 @@
 
 Adds various recipes intended to make some basic non-renewable resources, well, renewable.
 
-## Resources
-
-  * Cobbled Deepslate
-  * Calcite
-  * Dripstone
-  * Copper
-  * Scorchia
-    * *Note: Scorchia is already renewable, but requires dyeing Scoria manually or with Create: Dragons Plus. This mod adds a seperate, "vanilla" Create process recipe*
-  * Zinc
-
 ## Recipes
 
 ### Compacting
 
-  * Cobblestone (x4) = Cobbled Deepslate
-  * Cobblestone + Quartz + Lava (100mb) = Calcite
+  * Cobblestone (x4) => Cobbled Deepslate
+  * Cobblestone + Quartz + Lava (100mb) => Calcite
 
 ### Crushing
 
@@ -28,5 +18,5 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
 
 ### Filling (Spout)
 
-  * Scoria + Lava (100mb) = Scorchia
-  * Limestone + Water (250mb) = Dripstone Block
+  * Scoria + Lava (100mb) => Scorchia
+  * Limestone + Water (250mb) => Dripstone Block
