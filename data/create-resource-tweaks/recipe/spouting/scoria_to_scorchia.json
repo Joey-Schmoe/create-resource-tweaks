@@ -1,0 +1,18 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "create:scoria"
+        },
+        {
+            "type": "neoforge:single",
+            "amount": 100,
+            "fluid": "minecraft:lava"
+        }
+    ],
+    "results": [
+        {
+            "id": "create:scorchia"
+        }
+    ]
+}

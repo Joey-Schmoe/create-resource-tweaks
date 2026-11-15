@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+        {
+            "item": "create:scorchia"
+        }
+    ],
+    "processing_time": 250,
+    "results": [
+        {
+            "count": 3,
+            "chance": 0.12,
+            "id": "create:zinc_nugget"
+        }
+    ]
+}
