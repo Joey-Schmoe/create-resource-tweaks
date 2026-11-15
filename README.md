@@ -26,7 +26,7 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
    * Dripstone Block => Copper Nuggets (12% chance, 2 Nuggets) (Adds a Crushing recipe, leaving the default Clay Ball milling recipe)
    * Scorchia => Zinc Nuggets (12% chance, 3 Nuggets)
 
-### Spouting
+### Filling (Spout)
 
   * Scoria + Lava (100mb) = Scorchia
   * Limestone + Water (250mb) = Dripstone Block
