@@ -8,6 +8,7 @@ Adds various recipes intended to make some basic non-renewable resources, well, 
 
   * Cobblestone (x4) => Cobbled Deepslate
   * Cobblestone + Quartz + Lava (100mb) => Calcite
+  * Cobbled Deepslate + Gravel + Dripstone Block + Scorchia + Red Sand + Potion of Infestation (50mb) = Tuff (x3)
 
 ### Crushing
 
