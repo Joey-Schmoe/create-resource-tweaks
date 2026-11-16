@@ -1,0 +1,21 @@
+name: Release
+on:
+  release:
+    types: [published]
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build jar
+        run: zip -r create_resource_tweaks-${{ github.event.release.tag_name }}.jar data META-INF pack.mcmeta icon.png LICENSE
+
+      - uses: Kir-Antipov/mc-publish@v3.3
+        with:
+          modrinth-id: T5TeTgkS
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          curseforge-id: 1808239
+          curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
+          files: "*.jar"
