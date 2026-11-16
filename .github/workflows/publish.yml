@@ -19,3 +19,15 @@ jobs:
           curseforge-id: 1808239
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           files: "*.jar"
+          name: ${{ github.event.release.name }}
+          version: ${{ github.event.release.tag_name }}
+          version-type: release
+          changelog: ${{ github.event.release.body }}
+          loaders: |
+            neoforge
+          game-versions: |
+            1.21.1
+          java: |
+            21
+          dependencies: |
+            create(required){modrinth:create}{curseforge:create}#(ignore:github)
